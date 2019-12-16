@@ -1,5 +1,5 @@
 <?php 
-namespace numerize
+namespace numerize;
 
 class IsGenap {
 
