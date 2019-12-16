@@ -13,8 +13,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Numerize": "src/",
-            "HelloWorld": "src/"
+            "Numerize\\": "src/",
+            "HelloWorld\\": "src/"
         }
     }
 }
