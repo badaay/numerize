@@ -1,0 +1,16 @@
+{
+    "name": "baday/numerize",
+    "description": "number detection",
+    "authors": [
+        {
+            "name": "bagus hidayat",
+            "email": "bagus.hidayat@docotel.com"
+        }
+    ],
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "Baday\\Numerize\\": "src"
+        }
+    }
+}
