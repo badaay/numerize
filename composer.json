@@ -14,7 +14,7 @@
     "autoload": {
         "psr-4": {
             "Numerize\\": "src/",
-            "HelloWorld\\": "src/"
+            "HelloWorld\\": "src/HelloWorld"
         }
     }
 }
